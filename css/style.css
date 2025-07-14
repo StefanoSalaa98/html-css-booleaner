@@ -1,0 +1,18 @@
+/* elementi header */
+
+#main-header{
+    background-color: #03A9F4;
+    background-image: url("../img/pattern.png");
+    background-size: 40%;
+    height:140px;
+    line-height:150px;
+}
+
+#logo{
+    height:50px;
+    width:auto;
+    position:relative;
+    vertical-align:bottom;
+    bottom: 20px;
+    left: 5px;
+}
