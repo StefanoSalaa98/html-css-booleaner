@@ -56,3 +56,20 @@ ul{
     padding-inline-start: 15px;
     list-style-position: outside;
 }
+
+table {
+  border-collapse: collapse;
+}
+
+thead{
+    background-color:rgb(129, 163, 255);
+    color:white;
+}
+
+.sfondo_azzurro{
+    background-color: rgb(122, 255, 226);
+}
+
+.width_50{
+    width:50%;
+}
