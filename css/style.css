@@ -22,3 +22,19 @@
 #titolo{
     font-size:50px;
 }
+
+.indirizzo{
+    font-size:25px;
+}
+
+.grigio{
+    color:grey;
+}
+
+.azzurro{
+    color:aqua;
+}
+
+.testo-piccolo{
+    font-size:17px;
+}
