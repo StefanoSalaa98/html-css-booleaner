@@ -1,3 +1,9 @@
+.contenitore{
+    max-width:1080px;
+    margin:0 auto;
+}
+
+
 /* elementi header */
 
 #main-header{
@@ -20,11 +26,11 @@
 /* elementi main*/
 
 #titolo{
-    font-size:50px;
+    font-size:40px;
 }
 
 .indirizzo{
-    font-size:25px;
+    font-size:20px;
 }
 
 .grigio{
@@ -36,7 +42,7 @@
 }
 
 .testo-piccolo{
-    font-size:17px;
+    font-size:13px;
 }
 
 .immagini-tim{
