@@ -1,6 +1,5 @@
 .contenitore{
     max-width:1080px;
-    margin:0 auto;
 }
 
 
@@ -47,4 +46,8 @@
 
 .immagini-tim{
     margin: 20px 0;
+}
+
+.evidenzia{
+    background-color:rgb(223, 255, 40);
 }
