@@ -1,5 +1,11 @@
-.contenitore{
-    max-width:1080px;
+.contenitore_header{
+    width:100%;
+    margin:0 auto;
+}
+
+
+.contenitore_main{
+    width:80%;
     margin: 0 auto;
 }
 
